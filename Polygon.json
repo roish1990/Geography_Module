@@ -1,0 +1,95 @@
+{
+    "ID": "abc123def456",
+    "DisplayName": "a very nice polygon obsolutely not in a shape of a penis",
+    "CreationTime": 123456789,
+    "Points":[
+        {
+            "Latitude": 34.8611319065094,
+            "Longitude": 32.044950887213844
+        },
+        {
+            "Latitude": 34.860498905181885,
+            "Longitude": 32.04446889833996
+        },
+        {
+            "Latitude": 34.860488176345825,
+            "Longitude": 32.04365951508768
+        },
+        {
+            "Latitude": 34.86130356788635,
+            "Longitude": 32.04320480225567
+        },
+        {
+            "Latitude": 34.8621940612793,
+            "Longitude": 32.043723174703906
+        },
+        {
+            "Latitude": 34.86317038536072,
+            "Longitude": 32.043213896534446
+        },
+        {
+            "Latitude": 34.86389994621277,
+            "Longitude": 32.043832305371595
+        },
+        {
+            "Latitude": 34.86380338668823,
+            "Longitude": 32.04459621640237
+        },
+        {
+            "Latitude": 34.86289143562316,
+            "Longitude": 32.04502364003094
+        },
+        {
+            "Latitude": 34.8626983165741,
+            "Longitude": 32.04800645574297
+        },
+        {
+            "Latitude": 34.86217260360718,
+            "Longitude": 32.048552082245926
+        },
+        {
+            "Latitude": 34.86164689064026,
+            "Longitude": 32.04856117599343
+        },
+        {
+            "Latitude": 34.861207008361816,
+            "Longitude": 32.04795189291376
+        },
+        {
+            "Latitude": 34.8611319065094,
+            "Longitude": 32.044950887213844
+        }
+    ],
+    "Filling": "Full",
+    "Color": "#eb4034",
+    "PolygonType": "Defense",
+    "Priority": 6,
+    "DetectionScore":[
+        {
+            "DetectionType": "Human",
+            "Score": 6
+        },
+        {
+            "DetectionType": "Animal",
+            "Score": 4
+        },
+        {
+            "DetectionType": "Vehicle",
+            "Score": 5
+        }
+    ],
+    "SpeedRange":{
+        "Min": 10,
+        "Max": 50
+    },
+    "EditHistory":[
+        {
+            "UserID": "abc123",
+            "EditTime": 123456789
+        },
+        {
+            "UserID": "def456",
+            "EditTime": 987654321
+        }
+    ]
+}
